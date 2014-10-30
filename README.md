@@ -1,3 +1,3 @@
-Mensche_aerege_dich_nicht
+Mensche_aergere_dich_nicht
 =========================
 Check wiki for the rule set and game plan.
