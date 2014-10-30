@@ -1,3 +1,3 @@
 Mensche_aerege_dich_nicht
 =========================
-READ ME!
+Check wiki for the rule set and game plan.
